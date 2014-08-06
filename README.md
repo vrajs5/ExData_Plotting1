@@ -1,11 +1,11 @@
-##Assignment Completion 
+##Assignment Completion - Comments
 ###Files uploaded by me
 Apart from forked file this repository has 10 new files.
 <ol>
-<li>Initialize.R  - It is master file used for raw data to required data processing</li>
-<li>reading.csv  - This file is having only required set of data</li>
-<li>plot*.R - these files uses reading.csv to prepare plots</li>
-<li> plot*.png - these are graphical outputs of plot*.R files</li>
+<li><b>Initialize.R</b>  - It is master file used for raw data to required data processing</li>
+<li><b>reading.csv </b> - This file is having only required set of data</li>
+<li><b>plot*.R</b> - these files uses reading.csv to prepare plots</li>
+<li><b>plot*.png</b> - these are graphical outputs of plot*.R files</li>
 </ol>
 
 ## Introduction
