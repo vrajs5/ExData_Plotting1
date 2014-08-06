@@ -2,10 +2,10 @@
 ###Files uploaded by me
 Apart from forked file this repository has 10 new files.
 <ol>
-<li>1. Initialize.R  - It is master file used for raw data to required data processing<li>
-<li>2. reading.csv  - This file is having only required set of data<li>
-<li>3. plot*.R - these files uses reading.csv to prepare plots<li>
-<li>4. plot*.png - these are graphical outputs of plot*.R files<li>
+<li>Initialize.R  - It is master file used for raw data to required data processing</li>
+<li>reading.csv  - This file is having only required set of data</li>
+<li>plot*.R - these files uses reading.csv to prepare plots</li>
+<li> plot*.png - these are graphical outputs of plot*.R files</li>
 </ol>
 
 ## Introduction
